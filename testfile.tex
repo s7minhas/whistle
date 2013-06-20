@@ -1,0 +1,33 @@
+%test file for bibliography proofing
+
+\documentclass[12pt,onesided,fullpage]{amsart}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array,amsmath,graphicx,psfrag,amssymb,subfigure,tabularx,booktabs}
+\usepackage{mparhack}
+\usepackage{setspace}
+\usepackage{natbib}
+\usepackage{multicol}
+\usepackage{dcolumn}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{color}
+\usepackage[top=3cm, bottom=3cm, left=2.3cm, right=2.3cm]{geometry} 
+%\pdfpagewidth=8.5in % for pdflatex
+%\pdfpageheight=11in % for pdflatex
+\pagestyle{plain}
+\setcitestyle{authordate,round,semicolon,aysep={,},yysep={,}}
+\bibpunct[:]{(}{)}{;}{a}{,}{,}
+
+\title{BibThis Paco}
+\date{\today}
+%    author information
+\author{Michael D. Ward}
+\begin{document}
+\nocite{*}
+\maketitle
+\bibliographystyle{apsr}
+\bibliography{master.bib}
+
+\end{document}\bye
