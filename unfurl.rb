@@ -1,19 +1,14 @@
 # Ruby code to remove Url values from LaTeX bib files 
-# Usage: ruby unfurl.rb filename 
+# Usage: ruby unfurl.rb < infile.bib > outfile.bib 
 
-filename = ARGV[0]
-input = File.open(filename+'.bib')
-output = File.open(filename+'SansUrls.bib', 'w')
-
-input.each do |line|
-  if (line.include? 'Url') | (line.include? 'Id =')
-  	if line.include? '}}'
+ARGF.each do |line|
+  if (line.include? 'Url') | (line.include? 'Id =') | (line.include? '\url') | (line.include? 'http:')
+  	if (line.include? '}}') & !(line.include? '}},')
   		output.write("}\n")
   	end 
   else
-    output.write(line)
+    $stdout.write line 
   end
 end
 
-input.close
-output.close
+$stdout.flush
