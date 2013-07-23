@@ -4,7 +4,7 @@
 ARGF.each do |line|
   if (line.include? 'Url') | (line.include? 'Id =') | (line.include? '\url') | (line.include? 'http:')
   	if (line.include? '}}') & !(line.include? '}},')
-  		output.write("}\n")
+  		$stdout.write("}\n")
   	end 
   else
     $stdout.write line 
