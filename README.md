@@ -49,7 +49,7 @@ To add a new file to master, attempt the following:
 
 ```
 ruby unfurl.rb < newfile.bib > newfile-unfurled.bib # strip urls
-bibtool -s master.bib newfile-unfurled.bib -o master1.bib # merge and sort 
+bibtool -s -d master.bib newfile-unfurled.bib -o master1.bib # merge and sort 
 sed "s/\:-/\:/g" master1.bib > master2.bib # handles problem with some author names in keys
 ```
 
