@@ -346,11 +346,32 @@
   date-modified = {2013-05-24 15:41:15 -0500}
 }
 
+<<<<<<< HEAD
 @BOOK{ahlquist:levi:2013,
   title = {In the Interests of Others: Leaders, Governance, and Political Activism
 	in Membership Organizations},
   publisher = {Princeton University Press},
   year = {forthcoming},
+=======
+@ARTICLE{ahlquist:apsr:2010,
+  author = {Ahlquist, John S.},
+  title = {Building Strategic Capacity: the political underpinnings of
+	
+	coordinated wage bargaining},
+  journal = {American Political Science Review},
+  year = {2010},
+  volume = {104},
+  pages = {171-88},
+  number = {1},
+  owner = {thequister},
+  timestamp = {2013.08.21}
+}
+
+@BOOK{ahlquist:levi:2013,
+  title = {In the Interests of Others: organizations and social activism},
+  publisher = {Princeton University Press},
+  year = {2013},
+>>>>>>> e5e4ca00551206f8a480927f9b43d8b825bd76e2
   author = {Ahlquist, John S. and Levi, Margaret},
   address = {Princeton}
 }
@@ -2695,6 +2716,7 @@
   publisher = {Sage Publications}
 }
 
+<<<<<<< HEAD
 @ARTICLE{bell:miller:2009,
   author = {Bell, Mark S. and Nicholas L. Miller},
   title = {Questioning the Effects of Nuclear Weapons on Conflcit},
@@ -2704,6 +2726,8 @@
   timestamp = {2013.08.20}
 }
 
+=======
+>>>>>>> e5e4ca00551206f8a480927f9b43d8b825bd76e2
 @BOOK{belsley:kuh:etal:1980,
   title = {Regression Diagnostics: Identifying Influential Data and Sources
 	of Collinearity},
@@ -12423,6 +12447,7 @@
   date-modified = {2008-10-08 14:06:05 -0700}
 }
 
+<<<<<<< HEAD
 @ARTICLE{gelman:etal:2008,
   author = {Gelman, Andrew and Aleks Jakulin and Maria Grazia Pittau and Yu-Sung
 	Su},
@@ -12437,6 +12462,8 @@
   timestamp = {2013.08.20}
 }
 
+=======
+>>>>>>> e5e4ca00551206f8a480927f9b43d8b825bd76e2
 @ARTICLE{gelman:king:1990,
   author = {Gelman, Andrew and King, Gary},
   title = {{Estimating Incumbency Advantage Without Bias}},
@@ -15905,6 +15932,20 @@
   date-modified = {2013-05-31 14:18:26 +0000}
 }
 
+<<<<<<< HEAD
+=======
+@ARTICLE{heinze:schemper:2002,
+  author = {Heinze, G. and Schemper, M.},
+  title = {A solution to the problem of separation in logistic regression},
+  journal = {Statistics in Medicine},
+  year = {2002},
+  volume = {21},
+  pages = {2409-2419},
+  owner = {thequister},
+  timestamp = {2013.08.21}
+}
+
+>>>>>>> e5e4ca00551206f8a480927f9b43d8b825bd76e2
 @ARTICLE{helmke:2002,
   author = {Gretchen Helmke},
   title = {The Logic of Strategic Defection: Judicial Decision-Making in {A}rgentina
@@ -16656,6 +16697,21 @@
   issn = {0022-0027}
 }
 
+<<<<<<< HEAD
+=======
+@ARTICLE{horrace:oaxaca:2006,
+  author = {Horrace, William C. and Ronald L. Oaxaca},
+  title = {Results on the bias and inconsistency of ordinary least squares for
+	the linear probability model},
+  journal = {Economic Letters},
+  year = {2006},
+  volume = {90},
+  pages = {321-27},
+  owner = {thequister},
+  timestamp = {2013.08.21}
+}
+
+>>>>>>> e5e4ca00551206f8a480927f9b43d8b825bd76e2
 @ARTICLE{horton:kleinman:2007,
   author = {Nicholas J. Horton and Ken P. Kleinman},
   title = {{Much Ado About Nothing: A Comparison of Missing Data Methods and
@@ -27537,7 +27593,11 @@
 }
 
 @ARTICLE{rauchhaus:2009,
+<<<<<<< HEAD
   author = {Rauchhaus, Robert},
+=======
+  author = {Rauchhaus, R.},
+>>>>>>> e5e4ca00551206f8a480927f9b43d8b825bd76e2
   title = {{Evaluating the Nuclear Peace Hypothesis: A Quantitative Approach}},
   journal = {Journal of Conflict Resolution},
   year = {2009},
