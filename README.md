@@ -8,9 +8,10 @@ A repo for refs.
 New additions must abide the following rules
 
 ### index
-lastname1stauthor:year  (all lower)(one author) \
-lastname1stauthor:lastname2ndauthor:year  (two authors) \
-lastname1stauthor:etal:year   (more than two authors) \
+
+`lastname1stauthor:year`  (all lower)(one author) \
+`lastname1stauthor:lastname2ndauthor:year`  (two authors) \
+`lastname1stauthor:etal:year`   (more than two authors) \
 
 
 This step can often be accomplished using automated tools in Bibdesk, Jabref, and other citation managers. An easy way to do it from the command line is 
