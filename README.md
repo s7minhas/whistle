@@ -3,6 +3,11 @@ whistle
 
 A repo for refs.
 
+## tl;dr
+```
+bash merge.sh infile.bib outfile.bib
+```
+
 ## Adding to the file 
 
 New additions must abide the following rules
@@ -55,7 +60,3 @@ sed "s/\:-/\:/g" master1.bib > master2.bib # handles problem with some author na
 ```
 
 This process avoids overwriting existing files at each stage, but you can do so if you're feeling bold. At the end you can verify that master2.bib fits your desired criteria. If so, that's the new master file. 
-
-
-
-
