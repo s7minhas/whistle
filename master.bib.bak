@@ -382,6 +382,12 @@
   timestamp = {2013.08.21}
 }
 
+@ARTICLE{Ahlquist:etal:2014,
+  author = {Ahlquist, John S. and Amanda B. Clayton and Margaret Levi},
+  journal = {Interational Organization},
+  year = {2014}
+}
+
 @BOOK{ahlquist:levi:2013,
   title = {In the Interests of Others: organizations and social activism},
   publisher = {Princeton University Press},
@@ -11112,6 +11118,17 @@
   journal = {Biometrika},
   year = {1993},
   volume = {80},
+  pages = {27-38},
+  number = {1},
+  abstract = {t is shown how, in regular parametric problems, the first-order term
+	is removed from the asymptotic bias of maximum likelihood estimates
+	by a suitable modification of the score function. In exponential
+	families with canonical parameterization the effect is to penalize
+	the likelihood by the Jeffreys invariant prior. In binomial logistic
+	models, Poisson log linear models and certain other generalized linear
+	models, the Jeffreys prior penalty function can be imposed in standard
+	regression software using a scheme of iterative adjustments to the
+	data.},
   owner = {thequist},
   timestamp = {2013.10.01}
 }
