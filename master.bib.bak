@@ -18642,6 +18642,18 @@
   date-modified = {2013-05-24 15:41:19 -0500}
 }
 
+@ARTICLE{kenworthy:2003,
+  author = {Kenworthy, Lane},
+  title = {Quantitative Indicators of Corporatism},
+  journal = {International Journal of Sociology},
+  year = {2003},
+  volume = {33},
+  pages = {10-44},
+  number = {3},
+  owner = {thequist},
+  timestamp = {2013.10.09}
+}
+
 @BOOK{keohane:1984,
   title = {{After Hegemony}},
   publisher = {Princeton University Press},
@@ -23217,6 +23229,15 @@
   year = {2005},
   date-added = {2008-10-08 14:06:05 -0700},
   date-modified = {2013-05-24 15:41:19 -0500}
+}
+
+@ELECTRONIC{tr,
+  author = {Marshall, Monty G. and Gurr, T. and Keith Jaggers},
+  year = {2013},
+  title = {Polity IV Project},
+  url = {http://www.systemicpeace.org/inscr/inscr.htm},
+  owner = {thequist},
+  timestamp = {2013.10.09}
 }
 
 @ARTICLE{martin:quinn:2002,
@@ -33647,6 +33668,18 @@
   date-modified = {2013-05-24 15:41:21 -0500}
 }
 
+@ARTICLE{Treier:Jackman:2008,
+  author = {Treier, Shawn and Jackman, Simon},
+  title = {Democracy as Latent Variable},
+  journal = {American Journal of Political Science},
+  year = {2008},
+  volume = {52},
+  pages = {201-17},
+  number = {1},
+  owner = {thequist},
+  timestamp = {2013.10.09}
+}
+
 @BOOK{treisman;2001,
   title = {After the Deluge: Regional Crisis and Political Consolidation in
 	Russia. Ann Arbor},
@@ -34067,6 +34100,16 @@
   issn = {0022166X},
   keywords = {selection bias},
   mendeley-tags = {selection bias}
+}
+
+@BOOK{venables:ripley:2002,
+  title = {Modern Applied Statistics with S},
+  publisher = {Springer},
+  year = {2002},
+  author = {Venables, W.NWN. and Ripley, B.D.},
+  edition = {fourth},
+  owner = {thequist},
+  timestamp = {2013.10.09}
 }
 
 @ARTICLE{philipverwimp08012003,
