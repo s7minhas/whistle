@@ -1081,6 +1081,18 @@
   issn = {0022-0027}
 }
 
+@ARTICLE{arceneaux:nickerson:2009,
+  author = {Arceneaux, Kevin and David W. Nickerson},
+  title = {Modeling Certainty with Clustered Data:  A Comparison of Methods},
+  journal = {Political Analysis},
+  year = {2009},
+  volume = {17},
+  pages = {177-90},
+  number = {2},
+  owner = {thequist},
+  timestamp = {2013.11.13}
+}
+
 @UNPUBLISHED{arcidiacono:bayer:etal:2010,
   author = {Arcidiacono, Peter and Bayer, Patrick and Blevins, Jason R. and Ellickson,
 	Paul B.},
@@ -11656,6 +11668,19 @@
   mendeley-tags = {spatial}
 }
 
+@ARTICLE{freedman:2006,
+  author = {Freedman, David A.},
+  title = {On The So-Called “Huber Sandwich Estimator” and “Robust Standard
+	Errors”\},
+  journal = {The American Statistician},
+  year = {2006},
+  volume = {60},
+  pages = {299-302},
+  number = {4},
+  owner = {thequist},
+  timestamp = {2013.11.11}
+}
+
 @INCOLLECTION{freedman:2001,
   author = {David A. Freedman},
   title = {Ecological Inference and the Ecological Fallacy},
@@ -11705,19 +11730,6 @@
   number = {444},
   date-added = {2013-05-31 14:17:11 +0000},
   date-modified = {2013-05-31 14:17:11 +0000}
-}
-
-@ARTICLE{freedman:2006,
-  author = {Freedman, David A,},
-  title = {On The So-Called “Huber Sandwich Estimator” and “Robust Standard
-	Errors”\},
-  journal = {The American Statistician},
-  year = {2006},
-  volume = {60},
-  pages = {299-302},
-  number = {4},
-  owner = {thequist},
-  timestamp = {2013.11.11}
 }
 
 @ARTICLE{freeman:job:1979,
@@ -17637,6 +17649,18 @@
   file = {:Users/dynaman/Dropbox/Papers/2011/Huth, Croco, Appel -  2011 - Does International Law Promote the Peaceful  Settlement of International Disputes Evidence from the  Study of Territorial Conflicts since 1945.pdf:pdf},
   keywords = {territorial dispute},
   mendeley-tags = {territorial dispute}
+}
+
+@ARTICLE{,
+  author = {Imai, Kosuke},
+  title = {Multivariate Regression Analysis for the Item Count Techniques},
+  journal = {Journal of the American Statistical Association},
+  year = {2011},
+  volume = {106},
+  pages = {407-416},
+  number = {494},
+  owner = {thequist},
+  timestamp = {2013.11.13}
 }
 
 @ARTICLE{imai:2005,
