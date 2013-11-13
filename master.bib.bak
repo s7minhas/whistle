@@ -23955,6 +23955,16 @@
   type = {Studies on Foreign Policy Issues Report}
 }
 
+@ARTICLE{meng:schmidt:1985,
+  author = {Meng, Chun-Lo and Peter Schmidt},
+  title = {On the Cost of Partial Observability in the Bivariate Probit Models},
+  journal = {International Economic Review},
+  year = {1985},
+  volume = {26},
+  pages = {71-85},
+  number = {1}
+}
+
 @ARTICLE{mercer:2005,
   author = {Mercer, Jonathan},
   title = {Rationality and Psychology in International Politics},
@@ -27734,6 +27744,16 @@
   address = {New York},
   date-added = {2013-05-22 18:55:54 +0000},
   date-modified = {2013-05-24 15:41:20 -0500}
+}
+
+@ARTICLE{przeworski:vreeland:2000,
+  author = {Przeworski, Adam and James Vreeland},
+  title = {The Effects of IMF Programs on Economic Growth},
+  journal = {Journal of Development Economics},
+  year = {2000},
+  volume = {62},
+  pages = {385-421},
+  number = {2}
 }
 
 @ARTICLE{przeworski:vreeland:2002,
