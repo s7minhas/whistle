@@ -18515,7 +18515,8 @@
   author = {Imai, Koske and King, Gary and Lau, Olivia},
   year = {2009},
   owner = {thequist},
-  timestamp = {2014.05.16}
+  timestamp = {2014.05.16},
+  url = {http://gking.harvard.edu/zelig}
 }
 
 @ARTICLE{imai:etal:2008,
