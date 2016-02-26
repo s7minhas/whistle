@@ -1,10 +1,10 @@
 key.base = lower
-fmt.inter.name = :
 fmt.et.al={etal}
+fmt.inter.name = .
 key.format = 
 {
-	{	%-p(author)
-	# %-p(editor)
+	{	
+		%-p(author)
 	}
 	{
 		%4d(year)
