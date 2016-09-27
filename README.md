@@ -23,7 +23,7 @@ Don't link to PDFs on your laptop
 
 ### citation index values
 
-`lastname1stauthor:year`  (all lower)(one author) \
+`lastname1stauthor:year`  (all lower)(one author) 
 minhas:2016 (for Minhas (2016))
 
 `lastname1stauthor:lastname2ndauthor:year`  (two authors) 
