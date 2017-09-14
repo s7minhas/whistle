@@ -37311,9 +37311,6 @@
   author    = {Fox, John and Weisberg, Sanford},
   title     = {An R Companion to Applied Regression},
   year      = {2011},
-  edition   = {second},
-  publisher = {Sage},
-  location  = {Thousand Oaks},
   owner     = {thequist},
   timestamp = {2017.09.14},
 }
