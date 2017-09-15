@@ -37427,4 +37427,38 @@
   timestamp = {2017.09.15},
 }
 
+@Article{chalmers:2017,
+  author    = {Adam William Chalmers},
+  title     = {When Banks Lobby: The Effects of Organizational Characteristics and Banking Regulations on International Bank Lobbying},
+  journal   = {Business and Politics},
+  year      = {2017},
+  volume    = {19},
+  number    = {1},
+  pages     = {107-34},
+  owner     = {thequist},
+  timestamp = {2017.09.15},
+}
+
+@Book{mares:2015,
+  author    = {Mares, Isabela},
+  title     = {From open secrets to secret voting: Democratic electoral reforms and voter autonomy},
+  year      = {2015},
+  publisher = {Cambidge University Press},
+  address   = {New York},
+  owner     = {thequist},
+  timestamp = {2017.09.15},
+}
+
+@Article{barrilleaux:rainey:2014,
+  author    = {Charles Barrilleaux and Carlisle Rainey},
+  title     = {The Politics of Need: Examining Governors’ Decisions to Oppose the “Obamacare” Medicaid Expansion},
+  journal   = {State Politics and Policy Quarterly},
+  year      = {2014},
+  volume    = {14},
+  number    = {4},
+  pages     = {437-460},
+  owner     = {thequist},
+  timestamp = {2017.09.15},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
