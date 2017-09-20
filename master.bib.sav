@@ -3,12 +3,242 @@
 
 
 
+@article{titiunik:feher:2017,
+	Author = {Titiunik, Roc{\'\i}o and Feher, Andrew},
+	Date-Added = {2017-09-19 23:40:52 +0000},
+	Date-Modified = {2017-09-19 23:40:52 +0000},
+	Doi = {10.1111/rssa.12293},
+	Journal = {Journal of the Royal Statistical Society: Series A (Statistics in Society)},
+	Pages = {n/a--n/a},
+	Title = {Legislative behaviour absent re-election incentives: findings from a natural experiment in the Arkansas Senate},
+	Url = {http://dx.doi.org/10.1111/rssa.12293},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1111/rssa.12293}}
+
+@article{nagler:1994,
+	Author = {Nagler, Jonathan},
+	Date-Added = {2017-09-19 23:33:52 +0000},
+	Date-Modified = {2017-09-19 23:33:52 +0000},
+	Issue = {1},
+	Journal = {American Journal of Political Science},
+	Pages = {230--255},
+	Publisher = {JSTOR},
+	Title = {Scobit: An Alternative Estimator to Logit and Probit},
+	Volume = {38},
+	Year = {1994}}
+
+@book{fox:weisberg:2011,
+	Address = {Beverly Hills, CA},
+	Author = {John Fox and Sanford Weisberg},
+	Date-Added = {2017-09-19 23:21:48 +0000},
+	Date-Modified = {2017-09-19 23:23:14 +0000},
+	Edition = {2nd},
+	Publisher = {SAGE Publishing},
+	Title = {An $\mathcal{R}$ Companion to Applied Regression},
+	Year = {2011}}
+
+@article{bdm:etal:2003,
+	Author = {Bueno de Mesquita, Bruce and Gleditsch, Nils Petter and James, Patrick and King, Gary and Metelits, Claire and Ray, James Lee and Russett, Bruce and Strand, H{\aa}vard and Valeriano, Brandon},
+	Date-Added = {2017-09-19 22:29:38 +0000},
+	Date-Modified = {2017-09-19 22:29:38 +0000},
+	Journal = {International Studies Perspectives},
+	Number = {1},
+	Pages = {72--107},
+	Title = {Symposium on Replication in International Studies Research},
+	Volume = {4},
+	Year = {2003}}
+
+@article{gleditsch:etal:2003,
+	Author = {Gleditsch, Nils Petter and Metelits, Claire and Strand, Havard},
+	Date-Added = {2017-09-19 22:26:29 +0000},
+	Date-Modified = {2017-09-19 22:26:45 +0000},
+	Journal = {International Studies Perspectives},
+	Number = {1},
+	Pages = {89--97},
+	Title = {Posting Your Yata: Will You Be Scooped Or Will You Be Famous},
+	Volume = {4},
+	Year = {2003}}
+
+@article{king:1995,
+	Author = {King, Gary},
+	Date-Added = {2017-09-19 22:23:59 +0000},
+	Date-Modified = {2017-09-19 22:23:59 +0000},
+	Journal = {PS: Political Science \& Politics},
+	Number = {3},
+	Pages = {444--452},
+	Title = {Replication, replication},
+	Volume = {28},
+	Year = {1995}}
+
+@book{xie:2015,
+	Address = {New York},
+	Author = {Xie, Yihui},
+	Date-Added = {2017-09-19 21:56:32 +0000},
+	Date-Modified = {2017-09-19 21:56:32 +0000},
+	Edition = {2nd},
+	Publisher = {CRC Press},
+	Title = {Dynamic Documents with $\mathcal{R}$ and \texttt{knitr}},
+	Volume = {29},
+	Year = {2015}}
+
+@misc{macfarlane:2013,
+	Author = {MacFarlane, John},
+	Date-Added = {2017-09-19 21:56:32 +0000},
+	Date-Modified = {2017-09-19 21:56:32 +0000},
+	Title = {Pandoc: a Universal Document Converter},
+	Url = {http://pandoc.org},
+	Year = {2013},
+	Bdsk-Url-1 = {http://pandoc.org}}
+
+@book{gandrud:2015,
+	Address = {Boca Raton, Florida},
+	Author = {Gandrud, Christopher},
+	Date-Added = {2017-09-19 21:53:45 +0000},
+	Date-Modified = {2017-09-19 21:53:45 +0000},
+	Publisher = {CRC Press},
+	Title = {Reproducible Research with $\mathcal{R}$ and $\mathcal{R}$-studio},
+	Year = {2015}}
+
+@article{singal:2015,
+	Author = {Singal, Jesse},
+	Date-Added = {2017-09-19 21:53:33 +0000},
+	Date-Modified = {2017-09-19 21:53:33 +0000},
+	Journal = {Science of {US}},
+	Title = {The Case of the Amazing Gay-Marriage Data: How a Graduate Student Reluctantly Uncovered a Huge Scientific Fraud},
+	Year = {2015}}
+
+@article{bowers:2016,
+	Author = {Jake Bowers},
+	Date-Added = {2017-09-19 21:52:34 +0000},
+	Date-Modified = {2017-09-19 21:52:34 +0000},
+	Journal = {Revista ce Ciencia Politica},
+	Number = {3},
+	Pages = {829--848},
+	Title = {How to Improve Your Relationship with Your Future Self},
+	Volume = {36},
+	Year = {2016}}
+
+@article{knuth:1984,
+	Author = {Knuth, Donald Ervin},
+	Date-Added = {2017-09-19 21:52:34 +0000},
+	Date-Modified = {2017-09-19 21:52:34 +0000},
+	Journal = {The Computer Journal},
+	Number = {2},
+	Pages = {97--111},
+	Title = {Literate Programming},
+	Volume = {27},
+	Year = {1984}}
+
+@article{ioannidis:2005,
+	Author = {Ioannidis, John P.A.},
+	Date-Added = {2017-09-19 21:52:34 +0000},
+	Date-Modified = {2017-09-19 21:52:34 +0000},
+	Journal = {PLoS Medicine},
+	Number = {8},
+	Pages = {E124},
+	Title = {Why Most Published Research Findings Are False},
+	Volume = {2},
+	Year = {2005}}
+
+@article{miguel:etal:2014,
+	Author = {Miguel, Edward and Camerer, Colin and Casey, Katherine and Cohen, Joshua and Esterling, Kevin M. and Gerber, Alan and Glennerster, Rachel and Green, Don P. and Humphreys, Macartan and Imbens, Guido and others},
+	Date-Added = {2017-09-19 21:52:34 +0000},
+	Date-Modified = {2017-09-19 22:13:15 +0000},
+	Journal = {Science},
+	Number = {6166},
+	Pages = {30--31},
+	Title = {Promoting Transparency in Social Science Research},
+	Volume = {343},
+	Year = {2014}}
+
+@article{gentleman:2007,
+	Author = {Gentleman, Robert and Temple Lang, Duncan},
+	Date-Added = {2017-09-19 21:49:58 +0000},
+	Date-Modified = {2017-09-19 21:49:58 +0000},
+	Journal = {Journal of Computational and Graphical Statistics},
+	Number = {1},
+	Pages = {1--23},
+	Title = {Statistical Analyses and Reproducible Research},
+	Volume = {16},
+	Year = {2007}}
+
+@article{benoit:etal:2016,
+	Author = {Benoit, Kenneth and Conway, Drew and Lauderdale, Benjamin E. and Laver, Michael and Mikhaylov, Slava},
+	Date-Added = {2017-09-19 21:49:58 +0000},
+	Date-Modified = {2017-09-19 21:49:58 +0000},
+	Journal = {American Political Science Review},
+	Number = {2},
+	Pages = {278--295},
+	Title = {Crowd-sourced Text Analysis: Reproducible and Agile Production of Political Data},
+	Volume = {110},
+	Year = {2016}}
+
+@article{laitin:reich:2017,
+	Author = {Laitin, David D. and Reich, Rob},
+	Date-Added = {2017-09-19 21:49:58 +0000},
+	Date-Modified = {2017-09-19 21:49:58 +0000},
+	Journal = {PS: Political Science \& Politics},
+	Number = {1},
+	Pages = {172--175},
+	Title = {Trust, Transparency, and Replication in Political Science},
+	Volume = {50},
+	Year = {2017}}
+
+@article{knuth:1984,
+	Author = {Knuth, Donald Ervin},
+	Date-Added = {2017-09-19 21:49:58 +0000},
+	Date-Modified = {2017-09-19 21:49:58 +0000},
+	Journal = {The Computer Journal},
+	Number = {2},
+	Pages = {97--111},
+	Title = {Literate Programming},
+	Volume = {27},
+	Year = {1984}}
+
+@misc{healy:2017a,
+	Author = {Kieran Healy},
+	Date-Added = {2017-09-19 21:30:59 +0000},
+	Date-Modified = {2017-09-19 21:36:29 +0000},
+	Howpublished = {socviZ.co},
+	Month = {September},
+	Title = {Data Visualization for Social Science (incomplete draft)},
+	Url = {http://www.socviz.co/},
+	Year = {2017},
+	Bdsk-Url-1 = {http://www.socviz.co/}}
+
+@misc{healy:2017b,
+	Author = {Kieran Healy},
+	Date-Added = {2017-09-19 21:22:57 +0000},
+	Date-Modified = {2017-09-19 21:26:55 +0000},
+	Howpublished = {kieranhealy.org},
+	Month = {June},
+	Title = {The Plain Person's Guide to Plain Text Social Science},
+	Url = {https://kieranhealy.org/files/papers/plain-person-text.pdf},
+	Year = {2017},
+	Bdsk-Url-1 = {https://kieranhealy.org/files/papers/plain-person-text.pdf}}
+
+@article{king:2007,
+	Abstract = { The author introduces a set of integrated developments in Web application software, networking, data citation standards, and statistical methods designed to increase scholarly recognition for data contributions; to put some of the universe of data and data-sharing practices on firmer ground; and to facilitate the public distribution of persistent, authorized, and verifiable data, with powerful and easy-to-use technology, even when the data are confidential or proprietary. The goal is to solve some of the political and sociological problems of data sharing via technological means, with the result intended to benefit both the scientific community and the sometimes apparently contradictory goals of individual researchers. },
+	Author = {Gary King},
+	Date-Added = {2017-09-19 21:17:47 +0000},
+	Date-Modified = {2017-09-19 21:17:58 +0000},
+	Doi = {10.1177/0049124107306660},
+	Eprint = {https://doi.org/10.1177/0049124107306660},
+	Journal = {Sociological Methods \& Research},
+	Number = {2},
+	Pages = {173-199},
+	Title = {An Introduction to the Dataverse Network as an Infrastructure for Data Sharing},
+	Url = {https://doi.org/10.1177/0049124107306660},
+	Volume = {36},
+	Year = {2007},
+	Bdsk-Url-1 = {https://doi.org/10.1177/0049124107306660},
+	Bdsk-Url-2 = {http://dx.doi.org/10.1177/0049124107306660}}
+
 @book{monogan:2015,
 	Address = {New York},
 	Author = {{James E. Monogan~III}},
 	Date-Added = {2017-09-13 19:57:45 +0000},
 	Date-Modified = {2017-09-13 19:58:54 +0000},
-	Publisher = {Springer },
+	Publisher = {Springer},
 	Title = {Political Analysis Using R},
 	Year = {2015}}
 
@@ -18,7 +248,6 @@
 	Journal = {Journal of Peace Research},
 	Number = {2},
 	Pages = {199--212},
-	Publisher = { },
 	Title = {Ethnicity and Civil War},
 	Volume = {51},
 	Year = {2014}}
@@ -39,7 +268,6 @@
 	Journal = {British Journal of Political Science},
 	Number = {4},
 	Pages = {879--901},
-	Publisher = { },
 	Title = {Combatant Fragmentation and the Dynamics of Civil Wars},
 	Volume = {42},
 	Year = {2012}}
@@ -783,8 +1011,9 @@
 	Volume = {Forthcoming},
 	Year = {2017}}
 
-@article{cunningham:2013,
+@article{cunningham:2013b,
 	Author = {Cunningham, Kathleen Gallagher},
+	Date-Modified = {2017-09-19 21:51:09 +0000},
 	Journal = {American Journal of Political Science},
 	Number = {3},
 	Pages = {659--672},
@@ -21725,12 +21954,10 @@
 	Volume = {171},
 	Year = {2008}}
 
-@Manual{imai:etal:2009,
-  author  = {Choirat, C. and Honaker, James and Imai, Koske and King, Gary and Lau, Olivia},
-  title   = {{Zelig}: Everyone's Statistical Software},
-  year    = {2017},
-  version = {5.0-17},
-}
+@manual{imai:etal:2009,
+	Author = {Imai, Koske and King, Gary and Lau, Olivia},
+	Title = {Zelig: Everyone's Statistical Software},
+	Year = {2009}}
 
 @article{imai:etal:2011,
 	Author = {Imai, Kosuke and Keele, Luke and Tingley, Dustin and Yamamoto, Teppei},
@@ -37309,156 +37536,46 @@
 	Title = {Data mining methods for recommender systems},
 	Year = {2015}}
 
-@Book{fox:weisberg:2011,
-  author    = {Fox, John and Weisberg, Sanford},
-  title     = {An R Companion to Applied Regression},
-  year      = {2011},
-  edition   = {second},
-  publisher = {Sage},
-  location  = {Thousand Oaks},
-  owner     = {thequist},
-  timestamp = {2017.09.14},
-}
-
-@Article{titiunik:fehr:2017,
-  author    = {Rocıo Titiunik and Andrew Feher},
-  title     = {Legislative behaviour absent re-election incentives: findings from a natural experiment in the Arkansas Senate},
-  journal   = {Journal of the Royal Statistical Scoiety Series A},
-  year      = {2017},
-  owner     = {thequist},
-  timestamp = {2017.09.14},
-}
-
-@Article{nagler:1994,
-  author    = {Jonathan Nagler},
-  title     = {Scobit: An Alternative Estimator to Logit and Probit},
-  journal   = {American Journal of Political Science},
-  year      = {1994},
-  number    = {38},
-  issue     = {1},
-  pages     = {230-255},
-  owner     = {thequist},
-  timestamp = {2017.09.14},
-}
-
-@Article{einstein:glick:2017,
-  author    = {Katherine Levine Einstein and David M. Glick},
-  title     = {Does Race Affect Access to Government Services?An Experiment Exploring Street-Level Bureaucratsand Access to Public Housing},
-  journal   = {American Journal of Political Science},
-  year      = {2017},
-  number    = {61},
-  issue     = {1},
-  pages     = {100-116},
-  owner     = {thequist},
-  timestamp = {2017.09.14},
-}
-
-@Article{baturo:2017,
-  author    = {Alexander Baturo},
-  title     = {Democracy, Development, and Career Trajectories of Former Political Leaders},
-  journal   = {Comparative Political Studies},
-  year      = {2017},
-  volume    = {50},
-  number    = {8},
-  pages     = {1023-1054},
-  owner     = {thequist},
-  timestamp = {2017.09.14},
-}
-
-@Article{wang:dey:2010,
-  author    = {Xia Wang and Dipak K. Dey},
-  title     = {Generalized extreme value regression for binary response data: An application to B2B electronic payments system adoption.},
-  journal   = {Annals of Applied Statistics},
-  year      = {2010},
-  volume    = {4},
-  number    = {4},
-  pages     = {2000-2023},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Article{kordas:2006,
-  author    = {Gregory Kordas},
-  title     = {Smoothed binary regression quantiles},
-  journal   = {Journal of Applied Econometrics},
-  year      = {2006},
-  volume    = {21},
-  number    = {3},
-  pages     = {387-407},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Manual{heinze:ploner:2016,
-  author    = {Georg Heinze and Meinhard Ploner},
-  title     = {{logistf}: Firth's Bias-Reduced Logistic Regression},
-  year      = {2016},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Manual{kosmidis:2017,
-  author = {Ioannis Kosmidis},
-  title  = {{brglm}: Bias Reduction in Binary-Response Generalized Linear Models},
-  year   = {2017},
-  note   = {R package version 0.6.1},
-}
-
-@Article{mebane:sekhon:2011,
-  author    = {Mebane, Walter R. and Jasjeet S. Sekhon},
-  title     = {Genetic Optimization Using Derivatives: The {rgenoud} Package for {R}},
-  journal   = {Journal of Statistical Software},
-  year      = {2011},
-  volume    = {42},
-  number    = {11},
-  pages     = {1-26},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Article{mebane:sekhon:1998,
-  author    = {Mebane, Walter R. and Sekhon, Jasjeet S.},
-  title     = {Genetic Optimization Using Derivatives: Theory and Application to Nonlinear Models},
-  journal   = {Political Analysis},
-  year      = {1998},
-  volume    = {7},
-  pages     = {189-213},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Article{chalmers:2017,
-  author    = {Adam William Chalmers},
-  title     = {When Banks Lobby: The Effects of Organizational Characteristics and Banking Regulations on International Bank Lobbying},
-  journal   = {Business and Politics},
-  year      = {2017},
-  volume    = {19},
-  number    = {1},
-  pages     = {107-34},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Book{mares:2015,
-  author    = {Mares, Isabela},
-  title     = {From open secrets to secret voting: Democratic electoral reforms and voter autonomy},
-  year      = {2015},
-  publisher = {Cambidge University Press},
-  address   = {New York},
-  owner     = {thequist},
-  timestamp = {2017.09.15},
-}
-
-@Article{barrilleaux:rainey:2014,
-  author    = {Charles Barrilleaux and Carlisle Rainey},
-  title     = {The Politics of Need: Examining Governors' Decisions to Oppose the ``Obamacare'' Medicaid Expansion},
-  journal   = {State Politics and Policy Quarterly},
+@Article{herdon:etal:2014,
+  author    = {Thomas Herndon and Michael Ash and Robert Pollin},
+  title     = {Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff},
+  journal   = {Cambridge Journal of Economics},
   year      = {2014},
-  volume    = {14},
-  number    = {4},
-  pages     = {437-460},
+  volume    = {38},
+  number    = {2},
+  pages     = {257-279},
   owner     = {thequist},
-  timestamp = {2017.09.15},
+  timestamp = {2017.09.20},
+}
+
+@Report{broockman:etal:2015,
+  author      = {Broockman, David and Joshua Kalla and Peter Aronow},
+  title       = {Irregularities in LaCour (2014)},
+  institution = {Stanford, UC Berkeley, and Yale},
+  year        = {2015},
+  owner       = {thequist},
+  timestamp   = {2017.09.20},
+}
+
+@Article{openscience:2015,
+  author    = {{Open Science Collaboration}},
+  title     = {Estimating the reproducibility of psychological science},
+  journal   = {Science},
+  year      = {2015},
+  volume    = {349},
+  number    = {6215},
+  pages     = {aac4716-1 - aac4716-8},
+  owner     = {thequist},
+  timestamp = {2017.09.20},
+}
+
+@Report{jets:2015,
+  author    = {{DA-RT}},
+  title     = {The Journal Editors' Transparency Statement (JETS)},
+  year      = {2015},
+  url       = {https://www.dartstatement.org/2014-journal-editors-statement-jets},
+  owner     = {thequist},
+  timestamp = {2017.09.20},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
