@@ -37597,7 +37597,16 @@
   year      = {2014},
   volume    = {29},
   number    = {2},
-  pages     = {227-66},
+  pages     = {227-266},
+  owner     = {thequist},
+  timestamp = {2017.09.20},
+}
+
+@Article{ward:etal:2010,
+  author    = {Michael D. Ward and Brian D. Greenhill and Kristin M. Bakke},
+  title     = {The perils of policy by p-value: Predicting civil conflicts},
+  journal   = {Journal of Peace Research},
+  year      = {2010},
   owner     = {thequist},
   timestamp = {2017.09.20},
 }

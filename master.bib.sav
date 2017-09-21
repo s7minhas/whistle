@@ -37602,4 +37602,16 @@
   timestamp = {2017.09.20},
 }
 
+@Article{ward:etal:2010,
+  author    = {Michael D. Ward and Brian D. Greenhill and Kristin M. Bakke},
+  title     = {The perils of policy by p-value: Predicting civil conflicts},
+  journal   = {Journal of Peace Research},
+  year      = {2010},
+  volume    = {47},
+  number    = {4},
+  pages     = {363-375},
+  owner     = {thequist},
+  timestamp = {2017.09.20},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
