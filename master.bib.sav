@@ -18561,13 +18561,14 @@
 	Volume = {9},
 	Year = {2001}}
 
-@article{gerber:malhotr:2008,
-	Author = {Alan S. Gerber and Neil Malhotra},
-	Journal = {Quarterly Journal of Political Science},
-	Pages = {313-26},
-	Title = {Do Statistical Reporting Standards Affect What is Published? Publication Bias in Two Leading Political Science Journals},
-	Volume = {3},
-	Year = {2008}}
+@Article{gerber:malhotra:2008,
+  author  = {Alan S. Gerber and Neil Malhotra},
+  title   = {Do Statistical Reporting Standards Affect What is Published? Publication Bias in Two Leading Political Science Journals},
+  journal = {Quarterly Journal of Political Science},
+  year    = {2008},
+  volume  = {3},
+  pages   = {313-26},
+}
 
 @article{gerhards:rucht:1992,
 	Author = {Gerhards, J{\"u}rgen and Rucht, Dieter},
@@ -37574,6 +37575,29 @@
   title     = {The Journal Editors' Transparency Statement (JETS)},
   year      = {2015},
   url       = {https://www.dartstatement.org/2014-journal-editors-statement-jets},
+  owner     = {thequist},
+  timestamp = {2017.09.20},
+}
+
+@Book{edwards:1992,
+  author    = {Edwards, {A.W.F.}},
+  title     = {Likelihood},
+  year      = {1992},
+  edition   = {Expanded},
+  publisher = {Johns Hopkins University Press},
+  location  = {Baltimore},
+  owner     = {thequist},
+  timestamp = {2017.09.20},
+}
+
+@Article{mayo:2014,
+  author    = {Mayo, Deborah G.},
+  title     = {On the Birnbaum Argument for the Strong Likelihood Principle (with discussion \& rejoinder)},
+  journal   = {Statistical Science},
+  year      = {2014},
+  volume    = {29},
+  number    = {2},
+  pages     = {227-266},
   owner     = {thequist},
   timestamp = {2017.09.20},
 }
