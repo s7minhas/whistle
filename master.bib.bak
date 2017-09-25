@@ -37726,7 +37726,60 @@
   title     = {Conscription, Inequality, and Partisan Support for War},
   journal   = {Journal of Conflict Resolution},
   year      = {2016},
+  volume    = {60},
+  number    = {8},
+  pages     = {1419-1445},
   timestamp = {2017.09.23},
+}
+
+@Article{alvarez:nagler:1998,
+  author    = {Alvarez, R. Michael and Nagler, Johathan},
+  title     = {When Politics and Models Collide: Estimating Models of Multiparty Elections},
+  journal   = {American Journal of Political Science},
+  year      = {1998},
+  volume    = {42},
+  number    = {1},
+  pages     = {55-96},
+  timestamp = {2017.09.25},
+}
+
+@Book{alvarez:1998,
+  author    = {Alvarez, R. Michael},
+  title     = {Information and Elections},
+  year      = {1998},
+  publisher = {University of Michigan Press},
+  location  = {Ann Arbor},
+  timestamp = {2017.09.25},
+}
+
+@Article{martin:stevenson:2010,
+  author    = {Martin, Lanny and Stevenson, Randolph T.},
+  title     = {The Conditional Impact of Incumbency on Government Formation},
+  journal   = {American Politial Science Review},
+  year      = {2010},
+  volume    = {104},
+  number    = {3},
+  pages     = {503-518},
+  timestamp = {2017.09.25},
+}
+
+@Article{bagozzi:2016,
+  author    = {Bagozzi, Benjamin E.},
+  title     = {The baseline-inflated multinomial logit model for international relations research},
+  journal   = {Conflict Management and Peace Science},
+  year      = {2016},
+  volume    = {33},
+  number    = {2},
+  pages     = {174-197},
+  timestamp = {2017.09.25},
+}
+
+@Article{eifert:2010,
+  author    = {Eifert, Benn and Edward Miguel and Daniel N. Posner},
+  title     = {Political Competition and EthnicIdentification in Africa},
+  journal   = {American Journal of Political Science},
+  year      = {2010},
+  timestamp = {2017.09.25},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
