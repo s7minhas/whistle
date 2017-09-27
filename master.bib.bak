@@ -1,6 +1,54 @@
 % Encoding: UTF-8
 
+@article{poulsen:aisbett:2013,
+  title={When the claim hits: Bilateral investment treaties and bounded rational learning},
+  author={Poulsen, Lauge N. Skovgaard and Aisbett, Emma},
+  journal={World Politics},
+  volume={65},
+  number={2},
+  pages={273--313},
+  year={2013},
+  publisher={Cambridge University Press}
+}
 
+@article{keefer:knack:2002,
+  title={Polarization, politics and property rights: Links between inequality and growth},
+  author={Keefer, Philip and Knack, Stephen},
+  journal={Public choice},
+  volume={111},
+  number={1},
+  pages={127--154},
+  year={2002}
+}
+
+@article{jandhyala:etal:2011,
+  title={Three waves of BITs: The global diffusion of foreign investment policy},
+  author={Jandhyala, Srividya and Henisz, Witold J. and Mansfield, Edward D.},
+  journal={Journal of Conflict Resolution},
+  volume={55},
+  number={6},
+  pages={1047--1073},
+  year={2011}
+}
+
+@incollection{rajbhandari:2014,
+	Author = {Rajbhandari, Ashish},
+	Booktitle = {Bayesian Inference in the Social Sciences},
+	Date-Added = {2017-09-24 18:37:13 +0000},
+	Date-Modified = {2017-09-24 18:39:09 +0000},
+	Editor = {Jeliazkov, Ivan and Yang, Xin-She},
+	Publisher = {Wiley},
+	Title = {Identification and MCMC Estimation of Bivariate Probit Models with Partial Observability},
+	Year = {2014}}
+
+@article{mcfadden:1980,
+  title={Econometric models for probabilistic choice among products},
+  author={McFadden, Daniel},
+  journal={Journal of Business},
+  pages={S13--S29},
+  year={1980},
+  publisher={JSTOR}
+}
 
 
 @article{titiunik:feher:2017,
@@ -234,7 +282,7 @@
 	Bdsk-Url-2 = {http://dx.doi.org/10.1177/0049124107306660}}
 
 @Book{monogan:2015,
-  author        = {James E. Monogan},
+  author        = {{James E. Monogan~III}},
   title         = {Political Analysis Using R},
   year          = {2015},
   publisher     = {Springer},
@@ -37877,6 +37925,152 @@
   number    = {2},
   pages     = {722-726},
   timestamp = {2017.09.25},
+}
+
+@Article{freedman:2008,
+  author    = {Freedman, David A.},
+  title     = {Survival Analysis: A Primer},
+  journal   = {The American Statistician},
+  year      = {2008},
+  volume    = {62},
+  pages     = {110-119},
+  timestamp = {2017.09.26},
+}
+
+@Article{jones:branton:2005,
+  author    = {Jones, Bradford and Regina P. Branton},
+  title     = {Beyond Logit and Probit: Cox Duration Models of Single, Repeating, and Competing Events for State Policy Adoption},
+  journal   = {State Politics and Policy Quarterly},
+  year      = {2005},
+  volume    = {5},
+  number    = {4},
+  pages     = {420-443},
+  timestamp = {2017.09.26},
+}
+
+@Book{kalbfleisch:prentice:2002,
+  author    = {John D. Kalbfleisch and Ross L. Prentice},
+  title     = {The Statistical Analysis of Failure Time Data},
+  year      = {2002},
+  publisher = {Wiley-Interscience},
+  location  = {Hoboken, NJ},
+  timestamp = {2017.09.26},
+}
+
+@Article{cai:etal:2012,
+  author    = {Chao Cai and Yubo Zou and Yingwei Peng and Jiajia Zhang},
+  title     = {{smcure}: An {R} package for estimating semiparametric mixture cure models},
+  journal   = {Computer Methods and Programs in Biomedicine},
+  year      = {2012},
+  volume    = {108},
+  number    = {3},
+  pages     = {1255-1260},
+  timestamp = {2017.09.26},
+}
+
+@Article{thrower:2017,
+  author    = {Thrower, Sharece},
+  title     = {To Revoke or Not Revoke? The Political Determinantsof Executive Order Longevity},
+  journal   = {American Journal of Political Science},
+  year      = {2017},
+  volume    = {61},
+  number    = {3},
+  pages     = {642-656},
+  timestamp = {2017.09.26},
+}
+
+@Article{park:hendry:2015,
+  author    = {Park, Sunhee and David J. Hendry},
+  title     = {Reassessing Schoenfeld Residual Tests of Proportional Hazards in Political Science Event History Analyses},
+  journal   = {American Journal of Political Science},
+  year      = {2015},
+  volume    = {59},
+  number    = {4},
+  pages     = {1072-1087},
+  timestamp = {2017.09.26},
+}
+
+@Article{wolford:2017,
+  author    = {Wolford, Scott},
+  title     = {The Problem of Shared Victory: War-Winning Coalitions and Postwar Peace},
+  journal   = {Journal of Politics},
+  year      = {2017},
+  volume    = {79},
+  number    = {2},
+  pages     = {702-716},
+  timestamp = {2017.09.26},
+}
+
+@Article{schafer:1999,
+  author    = {Joseph L. Schafer},
+  title     = {Multiple imputation: a primer},
+  journal   = {Statistical Methods in Medical Research},
+  year      = {1999},
+  volume    = {8},
+  number    = {1},
+  pages     = {3-15},
+  timestamp = {2017.09.26},
+}
+
+@Manual{schafer:2017,
+  author = {Joseph L. Schafer},
+  title  = {{mix}: Estimation/Multiple Imputation for Mixed Categorical and Continuous Data},
+  year   = {2017},
+  note   = {R package version 1.0-10},
+}
+
+@Article{crookston:finley:2007,
+  author  = {Nicholas L. Crookston and Andrew O. Finley},
+  title   = {yaImpute: An R Package for kNN Imputation},
+  journal = {Journal of Statistical Software},
+  year    = {2007},
+  volume  = {23},
+  number  = {10},
+}
+
+@Article{josse:husson:2016,
+  author  = {Julie Josse and Fran\c{c}ois Husson},
+  title   = {{missMDA}: A Package for Handling Missing Values in Multivariate Data Analysis},
+  journal = {Journal of Statistical Software},
+  year    = {2016},
+  volume  = {70},
+  number  = {1},
+  pages   = {1--31},
+}
+
+@Article{stekhoven:buehlmann:2012,
+  author    = {Stekhoven, Daniel J. and Buehlmann, P.},
+  title     = {{missForest}: non-parametric missing value imputation for mixed-type data},
+  journal   = {Bioinformatics},
+  year      = {2012},
+  volume    = {28},
+  number    = {1},
+  pages     = {112-118},
+  timestamp = {2017.09.26},
+}
+
+@Manual{lumley:2014,
+  author = {Thomas Lumley},
+  title  = {mitools: Tools for multiple imputation of missing data},
+  year   = {2014},
+  note   = {R package version 2.3},
+}
+
+@Article{wright:frantz:2017,
+  author    = {Joseph Wright and Erica Frantz},
+  title     = {How oil income and missing hydrocarbon rents data influence autocratic survival: A response to Lucas and Richter (2016)},
+  journal   = {Research \& Politics},
+  year      = {2017},
+  volume    = {4},
+  number    = {3},
+  timestamp = {2017.09.26},
+}
+
+@Article{,
+  author    = {Klasnja, Marko},
+  title     = {Uninformed Voters and Corrupt Politicians},
+  journal   = {American Politics Research},
+  timestamp = {2017.09.26},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
