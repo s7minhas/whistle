@@ -38066,11 +38066,35 @@
   timestamp = {2017.09.26},
 }
 
-@Article{,
+@Article{klasnja:2017,
   author    = {Klasnja, Marko},
   title     = {Uninformed Voters and Corrupt Politicians},
   journal   = {American Politics Research},
+  year      = {2017},
+  volume    = {45},
+  number    = {2},
+  pages     = {256-279},
   timestamp = {2017.09.26},
+}
+
+@InBook{desmarais:cranmer:2017,
+  author    = {Desmarais, Bruce and Cranmer, Skyler},
+  title     = {Statistical Inference in Political Networks Research},
+  booktitle = {Oxford Handbook of Political Networks},
+  year      = {2017},
+  editor    = {Jennifer Nicoll Victor and Alexander H. Montgomery and Mark Lubell},
+  chapter   = {8},
+  timestamp = {2017.09.27},
+}
+
+@InCollection{snijders:pickup:2017,
+  author    = {Tom A. B. Snijders and Mark Pickup},
+  title     = {Stochastic Actor Oriented Models for Network Dynamics},
+  booktitle = {Oxford Handbook of Politicial Networks},
+  year      = {2017},
+  editor    = {Jennifer Nicoll Victor and Alexander H. Montgomery and Mark Lubell},
+  publisher = {Oxford University Press},
+  timestamp = {2017.09.27},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
