@@ -1,0 +1,230 @@
+\documentclass[12pt,onesided]{amsart} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% -------------------- defaults -------------------- %
+% load lots o' packages
+
+% references
+\usepackage{natbib}
+\usepackage{titlecaps}
+\Addlcwords{the of into}
+
+% Fonts
+\usepackage[default,osfigures,scale=0.95]{opensans}
+\usepackage[T1]{fontenc}
+\usepackage{ae}
+
+% Generate some fake text
+\usepackage{blindtext}
+
+% % add watermark
+% \usepackage{draftwatermark}
+% \SetWatermarkText{Draft: Do Not Circulate}
+% \SetWatermarkScale{.5}
+% \SetWatermarkColor[gray]{0.9}
+
+% layout control
+\usepackage{geometry}
+\geometry{verbose,tmargin=1.25in,bmargin=1.25in,lmargin=1.1in,rmargin=1.1in}
+\usepackage{parallel}
+\usepackage{parcolumns}
+\usepackage{fancyhdr}
+\usepackage[export]{adjustbox}
+\usepackage{etoolbox}
+
+% math typesetting
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{relsize}
+\usepackage{mathtools}
+\usepackage{bm}
+\usepackage[%
+decimalsymbol=.,
+digitsep=fullstop
+]{siunitx}
+
+% restricts float objects to be inserted before end of section
+% creates float barriers
+\usepackage[section]{placeins}
+
+% tables
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{longtable}
+
+% to adapt caption style
+\usepackage[font={small},labelfont=bf]{caption}
+
+% footnotes at bottom
+\usepackage[bottom]{footmisc}
+
+% to change enumeration symbols begin{enumerate}[(a)]
+\usepackage{enumerate}
+
+% to make enumerations and itemizations within paragraphs or
+% lines. f.i. begin{inparaenum} for (a) is (b) and (c)
+\usepackage{paralist}
+
+% to colorize links in document. See color specification below
+\usepackage[pdftex,hyperref,x11names]{xcolor}
+
+% for multiple references and insertion of the word "figure" or "table"
+% \usepackage{cleveref}
+
+% load the hyper-references package and set document info
+\usepackage[pdftex]{hyperref}
+
+% graphics stuff
+\usepackage{subfig}
+\usepackage{graphicx}
+\usepackage[space]{grffile} % allows us to specify directories that have spaces
+\usepackage{placeins} % prevents floats from moving past a \FloatBarrier
+\usepackage{tikz}
+
+% sideway figures
+\usepackage{rotating}
+\usepackage{lscape}
+
+% \usepackage[figuresright]{rotating}
+% \newenvironment{amssidewaysfigure}  {\begin{sidewaysfigure}\vspace*{.8\textwidth}\begin{minipage}{\textheight}\centering}
+%   {\end{minipage}\end{sidewaysfigure}}
+
+% Spacing
+\usepackage[doublespacing]{setspace}
+
+% define clickable links and their colors
+\hypersetup{%
+	unicode=false,          % non-Latin characters in Acrobat's bookmarks
+	pdftoolbar=true,        % show Acrobat's toolbar?
+	pdfmenubar=true,        % show Acrobat's menu?
+	pdffitwindow=false,     % window fit to page when opened
+	pdfstartview={FitH},    % fits the width of the page to the window
+	pdfnewwindow=true,%
+	%pagebackref=false,%
+	pdfauthor={Shahryar Minhas},%
+	pdftitle={},%
+	colorlinks,%
+	citecolor=black,%
+	filecolor=black,%
+	linkcolor=black,%
+	urlcolor=RoyalBlue4
+}
+
+% -------------------------------------------------- %
+
+
+% -------------------- title -------------------- %
+
+\title{We do things}
+\vspace{\baselineskip}
+
+\author[Minhas]{Shahryar Minhas}
+\address{Shahryar Minhas: Department of Political Science}
+\curraddr{Michigan State University}
+\email[Corresponding author]{minhassh@msu.edu}
+
+\date{\today}
+
+\setlength{\headheight}{15pt}
+\setlength{\headsep}{20pt}
+\pagestyle{fancyplain}
+ 
+\fancyhf{}
+ 
+\lhead{\fancyplain{}{}}
+\chead{\fancyplain{}{NSF Project Summary}}
+\rhead{\fancyplain{}{\today}}
+\rfoot{\fancyplain{}{\thepage}}
+
+% ----------------------------------------------- %
+
+
+% -------------------- customizations -------------------- %
+
+% references to graphics
+\makeatletter
+\def\input@path{{/Users/janus829/Dropbox/toDo_notes/nsfSumm/Graphics/}, {/Users/s7m/Dropbox/toDo_notes/nsfSumm/Graphics/}}
+
+\graphicspath{{/Users/janus829/Dropbox/toDo_notes/nsfSumm/Graphics/}, {/Users/s7m/Dropbox/toDo_notes/nsfSumm/Graphics/}}
+
+% easy commands for number propers
+\newcommand{\first}{$1^{\text{st}}$}
+\newcommand{\second}{$2^{\text{nd}}$}
+\newcommand{\third}{$3^{\text{rd}}$}
+\newcommand{\nth}[1]{${#1}^{\text{th}}$}
+
+% easy command for boldface math symbols
+\newcommand{\mbs}[1]{\boldsymbol{#1}}
+
+% command for R package font
+\newcommand{\pkg}[1]{{\fontseries{b}\selectfont #1}}
+
+% approx iid
+\newcommand\simiid{\stackrel{\mathclap{\normalfont\mbox{\tiny{iid}}}}{\sim}}
+
+% Add some colors
+\definecolor{red1}{RGB}{253,219,199}
+\definecolor{red2}{RGB}{244,165,130}
+\definecolor{red3}{RGB}{178,24,43}
+
+\definecolor{green1}{RGB}{229,245,224}
+\definecolor{green2}{RGB}{161,217,155}
+\definecolor{green3}{RGB}{49,163,84}
+
+\definecolor{blue0}{RGB}{255,247,251}
+\definecolor{blue1}{RGB}{222,235,247}
+\definecolor{blue2}{RGB}{158,202,225}
+\definecolor{blue3}{RGB}{49,130,189}
+\definecolor{blue4}{RGB}{4,90,141}
+
+\definecolor{purple1}{RGB}{191,211,230}
+\definecolor{purple2}{RGB}{140,150,198}
+\definecolor{purple3}{RGB}{140,107,177}
+
+\definecolor{brown1}{RGB}{246,232,195}
+\definecolor{brown2}{RGB}{223,194,125}
+\definecolor{brown3}{RGB}{191,129,45}
+
+% square bracket matrices
+\let\bbordermatrix\bordermatrix
+\patchcmd{\bbordermatrix}{8.75}{4.75}{}{}
+\patchcmd{\bbordermatrix}{\left(}{\left[}{}{}
+\patchcmd{\bbordermatrix}{\right)}{\right]}{}{}
+
+% -------------------------------------------------------- %
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\maketitle\thispagestyle{empty}
+
+Lets try some cites: 
+
+\begin{itemize}
+	\item \citep{mckelvey:zaviona:1975}
+	\item \citet{mckelvey:zaviona:1975}
+	\item \citet{gers:etal:1999}
+	\item \citep{gers:etal:1999}
+\end{itemize}
+
+\newpage
+
+% Bib stuff
+\clearpage
+% \bibliography{/Users/janus829/whistle/master}
+\bibliography{/Users/s7m/whistle/master}
+\bibliographystyle{ii}
+\newpage
+
+\end{document} 
