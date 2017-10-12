@@ -130,6 +130,13 @@ FUNCTION {output.nonnull}
   s
 }
 
+FUNCTION {titlecap}
+{ duplicate$ empty$
+    { pop$ "" }
+    { "\titlecap{" swap$ * "}" * }
+  if$
+}
+
 FUNCTION {output}
 { duplicate$ empty$
     'pop$
@@ -310,9 +317,10 @@ FUNCTION {format.editors}
 
 FUNCTION {format.title}
 { title empty$
-    { "" }
-    { title "t" change.case$ }
+    { " " }
+%    { title "t" change.case$ }
 %    { title add.period$ }
+     {" " title add.period$ titlecap * output}
   if$
 }
 
