@@ -2,6 +2,7 @@
  "master"
  (lambda ()
    (LaTeX-add-bibitems
+    "betancourt:2017"
     "hainmueller:etal:2018"
     "wbg:2016"
     "kathman:2013"
@@ -117,6 +118,8 @@
     "leeper:2018"
     "hetherington:2018"
     "barkin:1970"
+    "brooks.2011.handbook"
+    "neal.2011.MCMC"
     "tilly:1991"
     "krabbe:1985"
     "cite-key"
@@ -3284,13 +3287,6 @@
     "lockerbie:2008"
     "lofdahl:2002"
     "lohmann:1993"
-    "lohmann:1994"
-    "lohmann:1994a"
-    "lohmann:2000"
-    "long:2003"
-    "long:freese:2006"
-    "longley:batty:1995"
-    "lopez-vazo:etal:1999"
-    "lorrain:white:1971"))
+    "lohmann:1994"))
  :bibtex)
 
