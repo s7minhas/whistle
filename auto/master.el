@@ -2,6 +2,13 @@
  "master"
  (lambda ()
    (LaTeX-add-bibitems
+    "bautista:etal:2018"
+    "young:2019"
+    "aytacc:etal:2018"
+    "rozenas:zhukov:2019"
+    "garcia-ponce:pasquale:2019"
+    "carvalho:2017"
+    "wbg:2018"
     "baumgartner:etal:1998"
     "betancourt:2017"
     "hainmueller:etal:2018"
@@ -2508,6 +2515,7 @@
     "gelman:hill:2008"
     "gelman:king:1990"
     "gelman:king:1990a"
+    "gelman:rubin:1995"
     "gelman:rubin:1996"
     "gelman:stern:2006"
     "gelman:su:2016"
@@ -3279,14 +3287,6 @@
     "little:2014"
     "little:rubin:2002"
     "liu:etal:2013"
-    "lizardo:2006"
-    "lizzeri:persico:2004"
-    "lo:etal:2008"
-    "loayza:etal:2007"
-    "lockerbie:2004"
-    "lockerbie:2005"
-    "lockerbie:2008"
-    "lofdahl:2002"
-    "lohmann:1993"))
+    "lizardo:2006"))
  :bibtex)
 
