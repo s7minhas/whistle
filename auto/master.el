@@ -2,6 +2,10 @@
  "master"
  (lambda ()
    (LaTeX-add-bibitems
+    "garimella:2014"
+    "streeck:1986"
+    "steele:2017"
+    "ide:2014"
     "bautista:etal:2018"
     "young:2019"
     "aytacc:etal:2018"
@@ -149,6 +153,7 @@
     "mcelreath:2016"
     "vehtari:lampinen:2002"
     "vehtari:etal:2017"
+    "vehtari:etal:2019"
     "drukker:etal:2013b"
     "andersen:ross:2014"
     "ross:2012"
@@ -513,6 +518,7 @@
     "kowarik:templ:2016"
     "wilson:2015"
     "desmarais:harden:2013"
+    "desmarais:harden:2013a"
     "huisman:snijders:2003"
     "chiba:etal:2015"
     "yee:2010"
@@ -941,6 +947,7 @@
     "gartzke:2007"
     "pawitan:2013"
     "robbins:etal:2012"
+    "lubell:scholz:2001"
     "lubell:etal:2012"
     "heaney:2014"
     "berardo:scholz:2010"
@@ -1986,7 +1993,7 @@
     "clarke:2001a"
     "clarke:2003"
     "clarke:2005"
-    "clarke:2006"
+    "clarke:2007"
     "clarke:2009"
     "clarke:primo:2007"
     "clarke:signorino:2010"
@@ -2509,6 +2516,7 @@
     "geisser:1975"
     "geller:1993"
     "gellner:1983"
+    "gelman:etal:2014"
     "gelman:etal:1995"
     "gelman:etal:2008"
     "gelman:hill:2007"
@@ -3278,15 +3286,6 @@
     "linke:etal:2012"
     "linneman:1962"
     "linneman:1966"
-    "linz:1990"
-    "linz:stepan:1996"
-    "lipset:1959"
-    "lipset:1981"
-    "lipsky:1968"
-    "litrownik:etal:2003"
-    "little:2014"
-    "little:rubin:2002"
-    "liu:etal:2013"
-    "lizardo:2006"))
+    "linz:1990"))
  :bibtex)
 
